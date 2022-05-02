@@ -1,0 +1,3 @@
+# datastructure_Simple-Linked-List
+
+### 열혈 자료구조 책으로 공부하면서 C언어로 구현해본 단순연결리스트...
